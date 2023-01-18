@@ -224,7 +224,7 @@ Then the bioligists will decide - if to keep the clutch or to take it to a hatch
 if one crawl is connected to few clutches - we need to inspect it more because it's not normal.
 
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/42611120/213127091-879bf85e-b99c-4698-bfcc-f80608dbc7ff.png)
 
 
 
